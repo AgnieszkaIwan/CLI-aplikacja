@@ -12,6 +12,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
+    "commander": "^11.0.0",
     "node": "^20.5.0"
   },
   "devDependencies": {
